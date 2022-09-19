@@ -7,11 +7,11 @@ Application was designed in figma. Originally created for university but recreat
 
 ## Features
 
-> Weekly activity tracker where the user can enter individual activites/tasks per week.
-> To-Do Lists.
-> Bookmarks. Allows favouriting of either weekly activites or any to-do lists.
-> Recent. Tracks the recently added/channged data.
-> Shared with me. Users can export/import encrypted strings that contain either activity or list data.
+- Weekly activity tracker where the user can enter individual activites/tasks per week.\
+- To-Do Lists.
+- Bookmarks. Allows favouriting of either weekly activites or any to-do lists.
+- Recent. Tracks the recently added/channged data.
+- Shared with me. Users can export/import encrypted strings that contain either activity or list data.
 
 ## Available Scripts
 
