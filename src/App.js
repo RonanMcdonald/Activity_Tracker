@@ -1,10 +1,16 @@
+import styled from 'styled-components';
 import Navigation from './components/Navigation';
+import GlobalStyle from './GlobalStyle';
 
 function App() {
   return (
-    <div className="App">
+    <>
+      <GlobalStyle />
       <Navigation />
-    </div>
+      <div className='sitecontent' style={{ backgroundColor: 'brown', flex: '1' }}>
+        Beans
+      </div>
+    </>
   );
 }
 
