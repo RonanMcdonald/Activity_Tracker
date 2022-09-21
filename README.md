@@ -17,7 +17,9 @@ Weekly Activities \
  - Allow user to drag an activity to a different day.
  - Allow user to complete an activity 
 
-- To-Do Lists.
+To-Do Lists.
+
+Other \
 - Bookmarks. Allows favouriting of either weekly activites or any to-do lists.
 - Recent. Tracks the recently added/channged data.
 - Shared with me. Users can export/import encrypted strings that contain either activity or list data.
