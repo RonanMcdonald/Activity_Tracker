@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import GlobalStyle from './GlobalStyle';
 
 import SideContainer from './components/SideContainer/SideContainer';
-import ActivityPlanner from './components/ActivityPlanner/ActivityPlanner';
+import WeeklyActivities from './components/WeeklyActivities/WeeklyActivites';
 
 const ContentContainer = styled.div`
   flex: 1;
@@ -20,17 +20,15 @@ const getCurrentDate = () => {
 
 function App() {
   console.log('App Render');
-  console.log(getCurrentDate());
   return (
     <BrowserRouter>
       <GlobalStyle />
       <SideContainer />
       <ContentContainer>
         <Routes>
-          <Route path='/' element={<ActivityPlanner />} />
+          <Route path='/' element={<WeeklyActivities />} />
           <Route path='/weekly-activities/'>
-            <Route path=':id' element={<ActivityPlanner />} />
-            <Route path='' element={<ActivityPlanner />} />
+            <Route path='' element={<WeeklyActivities />} />
             {/* <Route path='' element={<Navigate to={getCurrentDate().toString()} replace />} /> */}
           </Route>
         </Routes>

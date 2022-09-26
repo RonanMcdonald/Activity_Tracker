@@ -8,7 +8,7 @@ import Recent from '../../../assets/images/Recent.svg';
 import Shared from '../../../assets/images/Share.svg';
 
 // prettier-ignore
-const LINK__DATA = [
+const LINK_DATA = [
   { link: 'Weekly Activites', to: '/weekly-activities', icon: WeeklyActivities },
   { link: 'To-Do Lists',      to: '/weekly-activities', icon: ToDoLists },
   { link: 'Bookmarks',        to: '/weekly-activities', icon: Bookmarks },
@@ -29,7 +29,7 @@ const Navigation__Container = styled.div`
 const Navigation = () => {
   return (
     <Navigation__Container>
-      {LINK__DATA.map((link, index) => (
+      {LINK_DATA.map((link, index) => (
         <Link key={index} name={link.link} to={link.to} icon={link.icon} />
       ))}
     </Navigation__Container>
