@@ -3,10 +3,7 @@ import { useParams, Route, Navigate, useNavigate, useMatches } from 'react-route
 
 import WeekHandler from './WeekHandler';
 
-let WEEK_DATA = [
-  { week: '32', monday: { task: 'eat cookies', complete: '0' } },
-  { week: '34', monday: { task: 'shit out cookies', complete: '1' } },
-];
+import WEEK_DATA from '../../data/WEEK_DATA.json';
 
 const getCurrentDate = () => {
   const currentDate = new Date();
@@ -17,15 +14,25 @@ const getCurrentDate = () => {
 };
 
 const ActivityPlanner = () => {
-  console.log('ActivityPlanner Render');
-  var [weekNumber, setWeekNumber] = useState(32);
+  console.log('Weekly Activites Render');
+  var [weekNumber, setWeekNumber] = useState(JSON.parse(localStorage.getItem('weekNumber')) || getCurrentDate());
   var [weekData, setWeekData] = useState([]);
 
+  // Instantiate weekData
   useEffect(() => {
     console.log('Fetching Week Data...');
     setWeekData(WEEK_DATA);
   }, [weekData]);
 
+  // Local-Storage week number
+  useEffect(() => {
+    localStorage.setItem('weekNumber', JSON.stringify(weekNumber));
+    console.log(JSON.parse(localStorage.getItem('weekNumber')));
+  }, [weekNumber]);
+
+  weekData.map((value, index) => console.log(value));
+
+  // Render
   return (
     <>
       <WeekHandler weekNumber={weekNumber} setWeekNumber={setWeekNumber} />
