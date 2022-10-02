@@ -13,6 +13,7 @@ const GlobalStyle = createGlobalStyle`
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004) !important;
+    background-color: black;
   }
 
   #root {
@@ -20,6 +21,8 @@ const GlobalStyle = createGlobalStyle`
     overflow: hidden;
     height: 100vh;
     background: #F0F1F3;
+    
+    /* opacity: 0.4; */
   }
 `;
 

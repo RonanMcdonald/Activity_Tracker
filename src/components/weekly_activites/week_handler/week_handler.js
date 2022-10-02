@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
-import ArrowLeft from '../../assets/images/ArrowLeft.svg';
-import ArrowRight from '../../assets/images/ArrowRight.svg';
+import ArrowLeft from '../../../assets/images/ArrowLeft.svg';
+import ArrowRight from '../../../assets/images/ArrowRight.svg';
 
 const Week__Handler__Container = styled.div`
   display: flex;
@@ -29,7 +29,6 @@ const Label = styled.label`
   display: block;
   max-width: 131px;
   min-width: 129px;
-  font-size: 24px;
   font-weight: 600;
   color: #643fdb;
 
@@ -37,6 +36,9 @@ const Label = styled.label`
   position: relative;
 
   select {
+    font-size: 24px;
+    color: #643fdb;
+
     width: 100%;
     height: 100%;
     top: 0;
@@ -48,7 +50,6 @@ const Label = styled.label`
 
     font-size: 24px;
     font-weight: 600;
-    color: #643fdb;
   }
 `;
 
@@ -72,7 +73,7 @@ const WeekHandler = ({ weekNumber, setWeekNumber }) => {
                   {i + 1}
                 </option>
               ) : (
-                <option key={i + 1} selected={i + 1} value={i + 1}>
+                <option key={i + 1} selected={i + 1} value={i + 1} hidden>
                   Week {i + 1}
                 </option>
               )
@@ -82,7 +83,6 @@ const WeekHandler = ({ weekNumber, setWeekNumber }) => {
       </Form>
       <Button onClick={handleWeekIncrement} style={{ flexDirection: 'row-reverse' }}>
         <img src={ArrowRight} alt='' />
-
         <span>Next</span>
       </Button>
     </Week__Handler__Container>

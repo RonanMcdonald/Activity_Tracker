@@ -4,19 +4,11 @@ import styled from 'styled-components';
 import GlobalStyle from './GlobalStyle';
 
 import SideContainer from './components/SideContainer/SideContainer';
-import WeeklyActivities from './components/WeeklyActivities/WeeklyActivites';
+import WeeklyActivities from './components/weekly_activites/WeeklyActivites';
 
 const ContentContainer = styled.div`
   flex: 1;
 `;
-
-const getCurrentDate = () => {
-  const currentDate = new Date();
-  const startDate = new Date(currentDate.getFullYear(), 0, 1);
-  const days = Math.floor((currentDate - startDate) / (24 * 60 * 60 * 1000));
-  const weekNumber = Math.ceil(days / 7);
-  return weekNumber;
-};
 
 function App() {
   console.log('App Render');

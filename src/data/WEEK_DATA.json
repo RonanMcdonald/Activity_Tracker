@@ -1,32 +1,17 @@
 [
-  {
-    "week": 32,
-    "monday": {
-      "tasks": [
-        { "task":"eat cookies", "complete": 0 },
-        { "task": "make cookies", "complete": 1 }
-      ]
-    },
-    "Tuesday": {
-      "tasks": [
-        { "task":"eat cookies", "complete": 0 },
-        { "task": "make cookies", "complete": 1 }
-      ]
-    }
-  },
-  {
-    "week": 33,
-    "monday": {
-      "tasks": [
-        { "task":"eat cookies", "complete": 0 },
-        { "task": "make cookies", "complete": 1 }
-      ]
-    },
-    "Tuesday": {
-      "tasks": [
-        { "task":"eat cookies", "complete": 0 },
-        { "task": "make cookies", "complete": 1 }
-      ]
-    }
-  }
+  { "id": "8d9f377d6edd2b0a", "week": 4, "day": "monday", "activity": "Make cookies", "tagText": "cardio", "tagColor": "4BD2FD", "complete": true },
+  { "id": "0c758c1f2c92b927", "week": 4, "day": "tuesday", "activity": "Eat cookies", "tagText": "strenght", "tagColor": "594BFD", "complete": false },
+  { "id": "79339df225da2e04", "week": 4, "day": "wednesday", "activity": "Poop cookies", "tagText": "diet", "tagColor": "4BFD5D", "complete": true },
+  { "id": "1672ee7a89b1aa1b", "week": 4, "day": "thursday", "activity": "Flush cookies", "tagText": "sport", "tagColor": "FD4B4B", "complete": false },
+  { "id": "e3ae4027f9c98012", "week": 4, "day": "friday", "activity": "Think about cookies", "tagText": "other", "tagColor": "EB00FF", "complete": true },
+  { "id": "ee67b7bf5649b6bb", "week": 4, "day": "saturday", "activity": "Cookie monster", "tagText": "cardio", "tagColor": "4BD2FD", "complete": true },
+  { "id": "d6f1a03eecc1bf21", "week": 4, "day": "sunday", "activity": "Cookie?", "tagText": "strenght", "tagColor": "594BFD", "complete": false },
+  { "id": "48534be9a0bed296", "week": 4, "day": "monday", "activity": "Make cookies", "tagText": "diet", "tagColor": "4BFD5D", "complete": false },
+  { "id": "32c7fc6e129edd5c", "week": 4, "day": "tuesday", "activity": "Eat cookies", "tagText": "sport", "tagColor": "FD4B4B", "complete": false },
+  { "id": "1a27556ce393eb2e", "week": 4, "day": "wednesday", "activity": "Poop cookies", "tagText": "other", "tagColor": "EB00FF", "complete": true },
+  { "id": "db43f9548ac25007", "week": 4, "day": "thursday", "activity": "Flush cookies", "tagText": "cardio", "tagColor": "4BD2FD", "complete": true },
+  { "id": "bf50661df5808ae6", "week": 4, "day": "friday", "activity": "Think about cookies", "tagText": "strenght", "tagColor": "594BFD", "complete": false },
+  { "id": "3bf626efe2fbf03c", "week": 4, "day": "saturday", "activity": "Cookie monster", "tagText": "diet", "tagColor": "4BFD5D", "complete": true },
+  { "id": "60ddbcd5d3ee6583", "week": 4, "day": "sunday", "activity": "Cookie?", "tagText": "sport", "tagColor": "FD4B4B", "complete": false },
+  { "id": "708a09c1d5a2e473", "week": 4, "day": "monday", "activity": "Make cookies", "tagText": "other", "tagColor": "EB00FF", "complete": true }
 ]

@@ -1,0 +1,366 @@
+[
+  {
+    "week": 1,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 2,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 3,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 4,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 5,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 6,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 7,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 8,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 9,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 10,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 11,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 12,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 13,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 14,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 15,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 16,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 17,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 18,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 19,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 20,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 21,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 22,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 23,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 24,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 25,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 26,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 27,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 28,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 29,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 30,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 31,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 32,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 33,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 34,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 35,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 36,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 37,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 38,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 39,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 40,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 41,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 42,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 43,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 44,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 45,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 46,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 47,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 48,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 49,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 50,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 51,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  },
+  {
+    "week": 52,
+    "monday": [
+      { "activity": "DD - 1", "complete": false },
+      { "activity": "DD - 2", "complete": false }
+    ]
+  }
+]
